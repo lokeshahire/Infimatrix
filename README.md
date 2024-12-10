@@ -1,7 +1,7 @@
 
 # Infimatrix Assignment
 
-This is a Casino game project where you can spin the reels and win prizes based on matching icons.
+
 
 ## Screenshots
 
